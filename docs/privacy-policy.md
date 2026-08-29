@@ -1,7 +1,7 @@
 # Privacy Policy — Loggevity
 
-**Effective date:** TODO before publishing
-**Contact:** TODO — a working address you are willing to publish
+**Effective date:** Aug 28 2026
+**Contact:** mattdhoy@gmail.com
 
 > **This is a draft, not legal advice.** Every factual claim in it was checked
 > against the code and the built release artifact (see "How these claims were
@@ -108,7 +108,7 @@ page is the only way to see a change.
 
 ## Contact
 
-TODO — a working address.
+mattdhoy@gmail.com
 
 ---
 
