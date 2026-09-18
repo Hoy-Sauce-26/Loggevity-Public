@@ -1,3 +1,10 @@
+<!--
+  This file ships as the root README.md of the public repository, via
+  scripts/docs.sh. Relative links below are written for that layout, where
+  privacy-policy.md and methodology.md sit under docs/. They will not resolve
+  from inside this repo's docs/ folder, which is expected.
+-->
+
 # Loggevity
 
 A local-first weekly health tracker. You log seven kinds of activity, and it
@@ -24,9 +31,13 @@ Seven categories, each scored out of ten:
 Finished weeks are kept, so you can watch the trend rather than judging
 yourself off any one day.
 
+There is an optional daily reminder, at whatever time you choose. It is off
+until you turn it on, and it is scheduled by your phone, so it works without
+the app sending or receiving anything.
+
 ## Nothing leaves your phone
 
-This isn't a promise on top of the app — it's how the app is built.
+This is how the app is built, rather than a promise laid on top of it.
 
 - **No account.** Nothing to sign up for, nothing to forget.
 - **No servers.** There is nowhere for your data to be sent.
@@ -40,14 +51,14 @@ This isn't a promise on top of the app — it's how the app is built.
 Your data is yours to move whenever you want it: export everything to JSON or
 CSV, and import it back on another device.
 
-Read the full [privacy policy](privacy-policy.md) for the details, including
+Read the full [privacy policy](docs/privacy-policy.md) for the details, including
 how each of these claims can be independently verified against the released
 app.
 
 ## Shows its working
 
 Every number behind the score traces back to a published study, and the app
-tells you which one. [The methodology](methodology.md) lays out each
+tells you which one. [The methodology](docs/methodology.md) lays out each
 category's source, what that source actually measured, and how much of that
 finding the score is willing to count — including where the evidence is weak,
 and why some categories are weighted well below their headline figures.
