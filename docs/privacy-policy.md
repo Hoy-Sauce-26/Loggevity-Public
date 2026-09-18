@@ -3,12 +3,6 @@
 **Effective date:** Aug 28 2026
 **Contact:** mattdhoy@gmail.com
 
-> **This is a draft, not legal advice.** Every factual claim in it was checked
-> against the code and the built release artifact (see "How these claims were
-> verified"), but whether it satisfies your obligations in your jurisdiction
-> is a question for a lawyer. Have someone qualified read it before you
-> publish it as the policy of record.
-
 ---
 
 ## The short version
